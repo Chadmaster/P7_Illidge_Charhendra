@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+#layout{
+    display: flex;
+    flex-direction: row;
+}
+.resto1{
+    border: 1px solid black;
+}
+/* parent div of list of restaurants  */
+#restaurants{
+height:100%;
+width: 30%;
+}
+/* div with google map API */
+#map{
+    height: 400px;
+    width: 70%;
+}

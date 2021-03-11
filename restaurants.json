@@ -1,0 +1,162 @@
+[
+    {
+        "restaurantName": "Bronco",
+        "address": "39 Rue des Petites Écuries, 75010 Paris",
+        "lat": 48.8737815,
+        "long": 2.3501649,
+        "ratings": [
+            {
+                "stars": 4,
+                "comment": "Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+            },
+            {
+                "stars": 5,
+                "comment": "Tout simplement mon restaurant préféré !"
+            }
+        ]
+    },
+    {
+        "restaurantName": "Babalou",
+        "address": "4 Rue Lamarck, 75018 Paris",
+        "lat": 48.8865035,
+        "long": 2.3442197,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+            },
+            {
+                "stars": 3,
+                "comment": "J'ai trouvé ça correct, sans plus"
+            }
+        ]
+    },
+    {
+        "restaurantName": "Le vent d'amour",
+        "address": "25 Quai de la Tournelle, 75005 Paris",
+        "lat": 48.8500,
+        "long": 2.3540,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "I am still savoring the taste.  Super experience.  Fresh, perfect balance, generous portions.... the way the bring out the best taste in the seafood"
+            },
+            {
+                "stars": 5,
+                "comment": "Really nice experience. Everything is well arranged and had a nice time there."
+            }
+        ]
+    },
+    {
+        "restaurantName": "Le Gabriel",
+        "address": "42 Avenue Gabriel, 75008 Paris",
+        "lat": 48.8698,
+        "long": 2.3133,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "All about the sauce! Had the experience menu.. A surprise menu. Literally every dish was unknown to us. 5 course."
+            },
+            {
+                "stars": 3,
+                "comment": "The six of us had the truffle tasting menu and I can’t say anything better than that it was the best meal and best service and dinning experience that I have ever had."
+            }
+        ]
+    },
+    {
+        "restaurantName": "Le Ciel de Paris",
+        "address": "Tour Maine Montparnasse, 56ème, Avenue du Maine, 75015 Paris",
+        "lat": 48.8421,
+        "long": 2.3221,
+        "ratings": [
+            {
+                "stars": 3,
+                "comment": "I struggled on this rating.It's a just about a 4 star because of the view and the good dishes. But the avg dishes, service and expectation brought it down."
+            },
+            {
+                "stars": 5,
+                "comment": "We were there for a birthday and they put a little candle on the dessert. The view was wonderful at night. "
+            }
+        ]
+    },
+    {
+        "restaurantName": "La Cantine de Mémé",
+        "address": "11 Rue Brochant, 75017 Paris",
+        "lat": 48.8886,
+        "long": 2.3172,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "Such an amazing food and service on this wonderful place. Don’t miss to taste the great selection of wine they have!!!"
+            },
+            {
+                "stars": 3,
+                "comment": "Simply delicious served by a nice staff. Definitely a place to go to enjoy great food."
+            }
+        ]
+    },
+    {
+        "restaurantName": "PavYllon",
+        "address": "8 Avenue Dutuit, 75008 Paris",
+        "lat": 48.8661,
+        "long": 2.3165,
+        "ratings": [
+            {
+                "stars": 4,
+                "comment": "Dîner offert dans le cadre de l opération a table, les soignants. Service parfait, mets originaux et délicieux, conseils pertinents du Sommelier ! Merci pour cette superbe soirée !"
+            },
+            {
+                "stars": 5,
+                "comment": "Great quality!"
+            }
+        ]
+    },
+    {
+        "restaurantName": "Chez Pitou",
+        "address": "28 Rue Tholozé, 75018 Paris",
+        "lat": 48.8039,
+        "long": 2.1733,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "The toast was quiet succulent and bulbous"
+            },
+            {
+                "stars": 3,
+                "comment": "This is an absolute delight! The whole experience was wonderful, from the delicious food to the incredibly friendly service - couldn’t recommend enough!"
+            }
+        ]
+    },
+    {
+        "restaurantName": "Bistrot Instinct",
+        "address": "19 Rue de Picardie, 75003 Paris",
+        "lat": 48.8637,
+        "long": 2.3625,
+        "ratings": [
+            {
+                "stars": 4,
+                "comment": "Really great experience here. Such friendly staff and prompt service with attention to all the details. The menu is wonderful too. We had the cucumber hummus and the rabbit terrine to start. Both were very light, nicely presented and a perfect soft intro to the mains. For the mains we had veal chop which was juicy and delicious with a lovely combination of two sauces, plus vegetables."
+            },
+            {
+                "stars": 5,
+                "comment": "We had a great time with friends! All the dishes are nicely presented, plentiful, and original ... special mention for the entrecote to share. The price / quality ratio is unbeatable (it seems to me on the Parisian square) Thank you to the whole team! Highly recommend."
+            }
+        ]
+    },
+    {
+        "restaurantName": "Signature",
+        "address": "12 Rue des Trois Frères, 75018 Paris",
+        "lat": 48.8600,
+        "long": 2.3462,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "One of the best dinners I ever had! From the greeting until the dessert, everything was perfect. The atmosphere is very private, with only 6-7 tables in the restaurant, the service incredible and the prices affordable considering the excellent food quality. Highly recommend."
+            },
+            {
+                "stars": 3,
+                "comment": "A very nice small restaurant co-owned by a french and a Korean serving fusion French-Korean dishes. The french owner is an expert in wine and he can give you very good advice on choice of wine to match various dishes. The korean is the chef serving delicious food. The restaurant is a small one with a capacity for 20 persons only. It is better for your to make reservation to avoid disappointment."
+            }
+        ]
+    }
+]

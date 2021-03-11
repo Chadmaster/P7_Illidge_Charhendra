@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aviresto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- div with a list of restaurants in the area  -->
+    <div id="layout">
+        <div id="restaurants">
+            <div class="resto1">
+                <div>
+                    <img src="" alt="">
+                </div>
+                <h5>Veganescape</h5>
+                <p>resto no good. Boy keeps talking in mi cabesa. oyoyo</p>
+            </div>
+        </div>
+        <!-- div with google map API geolocation -->
+        <div id="map"></div>
+    </div>
+
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhnwgcpXeRAUHs0-EJnyIyRcyvwa6_YCw&callback=initMap&libraries=&v=weekly"
+        async>
+        </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+
+</body>
+
+</html>
