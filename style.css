@@ -1,21 +1,43 @@
-body{
-    margin: 0 auto;
-    padding: 0;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+  margin: 0 auto;
+  padding: 0;
 }
-#layout{
-    display: flex;
-    flex-direction: row;
+
+#layout {
+  display: flex;
+  flex-direction: row;
 }
-.resto1{
-    border: 1px solid black;
+
+.resto {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  padding: 10px;
 }
+
 /* parent div of list of restaurants  */
-#restaurants{
-height:100%;
-width: 30%;
+#restaurants {
+  height: 400px;
+  max-height: 400px;
+  width: 30%;
+  overflow-y: scroll;
 }
+
 /* div with google map API */
-#map{
-    height: 400px;
-    width: 70%;
+#map {
+  height: 400px;
+  width: 70%;
+}
+h5{
+  margin: 0;
+}
+.imgStyle{
+  margin-right: 10px;
+}
+.addressStyle{
+  font-family:'Open sans', Courier, monospace;
+}
+.addressStyle p{
+  font-size: 0.5em;
 }

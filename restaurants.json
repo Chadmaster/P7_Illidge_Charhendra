@@ -2,6 +2,7 @@
     {
         "restaurantName": "Bronco",
         "address": "39 Rue des Petites Écuries, 75010 Paris",
+        "image": "img/resto1small.jpg",
         "lat": 48.8737815,
         "long": 2.3501649,
         "ratings": [
@@ -18,6 +19,7 @@
     {
         "restaurantName": "Babalou",
         "address": "4 Rue Lamarck, 75018 Paris",
+        "image": "img/resto2small.jpg",
         "lat": 48.8865035,
         "long": 2.3442197,
         "ratings": [
@@ -34,6 +36,7 @@
     {
         "restaurantName": "Le vent d'amour",
         "address": "25 Quai de la Tournelle, 75005 Paris",
+        "image": "img/resto3small.jpg",
         "lat": 48.8500,
         "long": 2.3540,
         "ratings": [
@@ -50,6 +53,7 @@
     {
         "restaurantName": "Le Gabriel",
         "address": "42 Avenue Gabriel, 75008 Paris",
+        "image": "img/resto4small.jpg",
         "lat": 48.8698,
         "long": 2.3133,
         "ratings": [
@@ -66,6 +70,7 @@
     {
         "restaurantName": "Le Ciel de Paris",
         "address": "Tour Maine Montparnasse, 56ème, Avenue du Maine, 75015 Paris",
+        "image": "img/resto5small.jpg",
         "lat": 48.8421,
         "long": 2.3221,
         "ratings": [
@@ -82,6 +87,7 @@
     {
         "restaurantName": "La Cantine de Mémé",
         "address": "11 Rue Brochant, 75017 Paris",
+        "image": "img/resto6small.jpg",
         "lat": 48.8886,
         "long": 2.3172,
         "ratings": [
@@ -98,6 +104,7 @@
     {
         "restaurantName": "PavYllon",
         "address": "8 Avenue Dutuit, 75008 Paris",
+        "image": "img/resto7small.jpg",
         "lat": 48.8661,
         "long": 2.3165,
         "ratings": [
@@ -114,6 +121,7 @@
     {
         "restaurantName": "Chez Pitou",
         "address": "28 Rue Tholozé, 75018 Paris",
+        "image": "img/resto8small.jpg",
         "lat": 48.8039,
         "long": 2.1733,
         "ratings": [
@@ -130,6 +138,7 @@
     {
         "restaurantName": "Bistrot Instinct",
         "address": "19 Rue de Picardie, 75003 Paris",
+        "image": "img/resto9small.jpg",
         "lat": 48.8637,
         "long": 2.3625,
         "ratings": [
@@ -146,6 +155,7 @@
     {
         "restaurantName": "Signature",
         "address": "12 Rue des Trois Frères, 75018 Paris",
+        "image": "img/resto10small.jpg",
         "lat": 48.8600,
         "long": 2.3462,
         "ratings": [
